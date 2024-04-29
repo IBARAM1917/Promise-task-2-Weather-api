@@ -1,0 +1,14 @@
+.box {
+    align-items: center !important;
+    background-color: rgb(137, 178, 55) !important;
+    padding: 40px !important;
+    color: rgb(241, 243, 243) !important;
+  }
+  .city {
+    font-size: xx-large !important;
+    font-weight: bolder !important;
+}
+#city{
+    border-radius:6px;
+    border:none;
+}
